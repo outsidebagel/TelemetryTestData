@@ -1,1 +1,1 @@
-Java application that sends test telemtry data to an InfluxDB server to be displayed.
+Python script that simulates telegraf sending data to the solar car telemetry spring boot app.
